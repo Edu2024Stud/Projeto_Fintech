@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(to bottom, #0d3a3a, #0a2929);
+
+} 
+main{
+    background-color: #075a5a;
+    border-radius: 10px;
+    height: 80vh;
+    
+}
+
+button{
+    background-color: #03a7a7;
+    border: 1px solid #075a5a;
+    border-radius: 10px;
+ 
+}
+.botao:hover{
+    background-color: #31e4e4;
+    transition: 1s; 
+    border: 1px solid #036363;
+    
+}
+
+.form-container{
+    max-width: 380px;
+    padding: 1rem;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin-right: 1px;
+}
+
+
